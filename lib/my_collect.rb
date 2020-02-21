@@ -7,7 +7,7 @@ def my_collect(array)
  new_collection.push
   i = i + 1
 elsif
- new_collection
+ new_collection.collect
  
  else 
   array.collect
